@@ -1,3 +1,5 @@
-Rosso analysed data from 3780 to 3818
-Simulated file wiht no background other than secondary particel produced by muons (this is around 40 percent of the hit)
-In simulated data - Hit Data/ScintHitE show the energy deposited per bar per event
+Rosso data corresponds to runs 3780 to 3818.
+
+In simulaton no background other than secondary particles produced by muons (these account for approximately 40% of the hits).
+
+In the simulated data, the variable HitData/ScintHitE represents the energy deposited per scintillator bar per event.
